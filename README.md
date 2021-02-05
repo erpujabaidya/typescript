@@ -1,4 +1,5 @@
 # typescript
+Here CI/CD used 
 For Free style Project - Deployment of EC2 instance in AWS console
 
  #whoami
