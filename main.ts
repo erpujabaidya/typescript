@@ -14,7 +14,7 @@ class MyStack extends TerraformStack {
       ami: 'ami-00ddb0e5626798373',
       instanceType: 't2.micro',
       tags: {
-        Name: 'TypeScript-Demo-3',
+        Name: 'TypeScript-Demo-Puja',
         fruit: 'blueberry',
         Address: '123 Main St',
       },
