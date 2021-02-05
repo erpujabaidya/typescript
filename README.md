@@ -1,16 +1,11 @@
 # typescript
 For Free style Project - Deployment of EC2 instance in AWS console
 
-#whoami
-#rm -rf *.tar.gz
-#npm install
-#npm fund
-#tar czf test-$BUILD_NUMBER.tar.gz node_modules main.ts package.json
-
-
-
-
-
+ #whoami
+ #rm -rf *.tar.gz
+ #npm install
+ #npm fund
+ #tar czf test-$BUILD_NUMBER.tar.gz node_modules main.ts package.json
 cdktf
 cdktf get
 cdktf synth
