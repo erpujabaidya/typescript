@@ -1,6 +1,6 @@
 # typescript
 Here CI/CD used 
-For Free style Project - Deployment of EC2 instance in AWS console
+# For Free style Project - Deployment of EC2 instance in AWS console
 
  #whoami
  #rm -rf *.tar.gz
@@ -16,4 +16,8 @@ terraform init
 terraform plan
 terraform apply -auto-approve
 
-#test-*.tar.gz --> File o archeive
+#test-*.tar.gz --> File to archeive
+
+
+# Author
+Puja Baidya
